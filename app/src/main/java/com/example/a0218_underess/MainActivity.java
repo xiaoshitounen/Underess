@@ -2,6 +2,7 @@ package com.example.a0218_underess;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.annotation.SuppressLint;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
@@ -25,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
         //onCreate方法里面，控件的大小还没有测量好
         foreImageView.post(new Runnable() {
+            @SuppressLint("ClickableViewAccessibility")
             @Override
             public void run() {
                 //System.out.println(foreImageView.getWidth());
