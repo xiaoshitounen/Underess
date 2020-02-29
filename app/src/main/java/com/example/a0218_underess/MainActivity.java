@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         //找到控件
         final ImageView foreImageView = (ImageView) findViewById(R.id.iv_fr);
 
-        //onCreate方法里面，控件的大小还没有测量好，使用post
+        //onCreate方法里面，控件的大小还没有测量好
         foreImageView.post(new Runnable() {
             @SuppressLint("ClickableViewAccessibility")
             @Override
