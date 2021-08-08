@@ -7,6 +7,6 @@
 
 - **难度：新手。**
 
-- **博客发布处：[Android项目1：撕衣服](https://fanandjiu.com/Android%E9%A1%B9%E7%9B%AE1%EF%BC%9A%E6%92%95%E8%A1%A3%E6%9C%8D/#more)**
+- **博客发布处：[Android项目1：撕衣服](http://www.fanandjiu.com/article/d84d6370.html)**
 
 
